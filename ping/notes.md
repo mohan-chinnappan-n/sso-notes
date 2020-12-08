@@ -1,4 +1,4 @@
-# SP-initiated SSO to Salesforce.com and SAML 2.0
+# Ping: SP-initiated SSO to Salesforce.com and SAML 2.0
 
 
 How to configure PF in IdP role to enable SP-initiated SSO to Salesforce.com via SAML 2.0 (instead of Delegated Authentication)?
