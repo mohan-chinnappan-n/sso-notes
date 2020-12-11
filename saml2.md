@@ -69,7 +69,6 @@
 
 ### How the trust is established between SP and IdP?
 ![sp idp trust](img/saml-sp-idp-trust-1.png)
-#### Metadata
 ![metadata](img/saml-metadata-1.png)
 
 ### References
