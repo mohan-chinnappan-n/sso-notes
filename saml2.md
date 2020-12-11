@@ -95,6 +95,9 @@
 ![Status code](img/statusCode.png)
 ## Subject
 ![Subject](img/subject.png)
+## Attributes
+![Attributes](img/attribs-1.png)
+
 
 
 ### SAML 2.0
