@@ -71,6 +71,10 @@
 ![sp idp trust](img/saml-sp-idp-trust-1.png)
 ![metadata](img/saml-metadata-1.png)
 
+
+## IDP INIT
+![IDP init](img/idp-init-1.png)
+
 ### References
 - [SP-initiated SSO—POST-POST](https://docs.pingidentity.com/bundle/pingfederate-81/page/gettingStartedGuide/task/spInitiatedSsoPost.html)
 - [Video - SAML 2.0: Technical Overview](https://www.youtube.com/watch?v=SvppXbpv-5k)
