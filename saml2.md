@@ -83,6 +83,7 @@
 ## Bindings
 ![Bindings](img/bindings-1.png)
 
+![Artifact binding](img/arti-binding.png)
 ### References
 - [SP-initiated SSO—POST-POST](https://docs.pingidentity.com/bundle/pingfederate-81/page/gettingStartedGuide/task/spInitiatedSsoPost.html)
 - [Video - SAML 2.0: Technical Overview](https://www.youtube.com/watch?v=SvppXbpv-5k)
