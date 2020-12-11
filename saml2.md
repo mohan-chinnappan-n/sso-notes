@@ -87,6 +87,9 @@
 - SP and IdP must communicate for artifact binding
 
 ![metadata2](img/metadata-2.png)
+
+## Method of Authn
+![context classes](img/context-classes.png)
 ### References
 - [SP-initiated SSO—POST-POST](https://docs.pingidentity.com/bundle/pingfederate-81/page/gettingStartedGuide/task/spInitiatedSsoPost.html)
 - [Video - SAML 2.0: Technical Overview](https://www.youtube.com/watch?v=SvppXbpv-5k)
