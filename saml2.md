@@ -91,6 +91,9 @@
 ## Method of Authn
 ![context classes](img/context-classes.png)
 
+## Status code
+![Status code](img/statusCode.png)
+
 ### SAML 2.0
 ![saml2](img/saml2.png)
 ### References
