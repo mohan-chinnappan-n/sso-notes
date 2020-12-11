@@ -3,7 +3,7 @@
 ## SSO with Marketing Cloud example
 
 ![sso mc](https://mohan-chinnappan-n2.github.io/2020/mc/sso/img/mc-sso-saml-2.png)
--[MC Enable Single Sign-On Authentication Via SAML 2.0](https://mohan-chinnappan-n2.github.io/2020/mc/sso/mc-sso.html)
+-[Refer: MC Enable Single Sign-On Authentication Via SAML 2.0](https://mohan-chinnappan-n2.github.io/2020/mc/sso/mc-sso.html)
 
 
 ![Ping HTTP redirect](https://prod-ping-sfc.zoominsoftware.io/bundle/pingfederate-81/page/gettingStartedGuide/images/SP_redirect_post.jpg?_LANG=enus)
