@@ -69,6 +69,8 @@
 
 ### How the trust is established between SP and IdP?
 ![sp idp trust](img/saml-sp-idp-trust-1.png)
+#### Metadata
+![metadata](img/saml-metadata-1.png)
 
 ### References
 - [SP-initiated SSO—POST-POST](https://docs.pingidentity.com/bundle/pingfederate-81/page/gettingStartedGuide/task/spInitiatedSsoPost.html)
