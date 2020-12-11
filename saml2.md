@@ -6,6 +6,9 @@
 -[M Enable Single Sign-On Authentication Via SAML 2.0](https://mohan-chinnappan-n2.github.io/2020/mc/sso/mc-sso.html)
 
 
+![Ping HTTP redirect](https://prod-ping-sfc.zoominsoftware.io/bundle/pingfederate-81/page/gettingStartedGuide/images/SP_redirect_post.jpg?_LANG=enus)
+![Ping HTTP Post](https://prod-ping-sfc.zoominsoftware.io/bundle/pingfederate-81/page/gettingStartedGuide/images/SP_post_post.jpg?_LANG=enus)
+
 ##  AuthNRequest
 -  Sent by the SP to the IdP
 - Two ways
@@ -60,4 +63,5 @@
 ```
 
 
-
+### References
+- [SP-initiated SSO—POST-POST](https://docs.pingidentity.com/bundle/pingfederate-81/page/gettingStartedGuide/task/spInitiatedSsoPost.html)
