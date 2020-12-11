@@ -93,6 +93,9 @@
 
 ## Status code
 ![Status code](img/statusCode.png)
+## Subject
+![Subject](img/subject.png)
+
 
 ### SAML 2.0
 ![saml2](img/saml2.png)
