@@ -30,4 +30,4 @@ Steps:
 ## References
 - [SP-initiated SSO to Salesforce.com and SAML 2.0](https://support.pingidentity.com/s/article/SP-initiated-SSO-to-Salesforce-com-and-SAML-2-0)
 - [Pingfederate 8.0+ - HTTP Request Header Size To Large](https://support.pingidentity.com/s/article/Pingfederate-8-HTTP-Request-Header-Size-To-Large)
-
+ -[akamai error codes](https://learn.akamai.com/en-us/webhelp/enterprise-application-access/enterprise-application-access/GUID-34A1894E-48A3-4B5A-A9D5-2FE1196CB54E.html)
