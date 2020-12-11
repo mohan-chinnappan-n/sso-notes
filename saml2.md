@@ -80,6 +80,8 @@
 - Transport is User Agent (browser)
 ![SP init](img/sp-init-1.png)
 
+## Bindings
+![Bindings](img/bindings-1.png)
 
 ### References
 - [SP-initiated SSO—POST-POST](https://docs.pingidentity.com/bundle/pingfederate-81/page/gettingStartedGuide/task/spInitiatedSsoPost.html)
