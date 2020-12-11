@@ -67,6 +67,9 @@
 ### SP forcing authn using ForceAuthn=true
 ![forceauthn](img/sp-forceauthn-1.png)
 
+### How the trust is established between SP and IdP?
+![sp idp trust](img/saml-sp-idp-trust-1.png)
+
 ### References
 - [SP-initiated SSO—POST-POST](https://docs.pingidentity.com/bundle/pingfederate-81/page/gettingStartedGuide/task/spInitiatedSsoPost.html)
 - [Video - SAML 2.0: Technical Overview](https://www.youtube.com/watch?v=SvppXbpv-5k)
