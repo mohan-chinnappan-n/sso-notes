@@ -84,6 +84,9 @@
 ![Bindings](img/bindings-1.png)
 
 ![Artifact binding](img/arti-binding.png)
+- SP and IdP must communicate for artifact binding
+
+![metadata2](img/metadata-2.png)
 ### References
 - [SP-initiated SSO—POST-POST](https://docs.pingidentity.com/bundle/pingfederate-81/page/gettingStartedGuide/task/spInitiatedSsoPost.html)
 - [Video - SAML 2.0: Technical Overview](https://www.youtube.com/watch?v=SvppXbpv-5k)
