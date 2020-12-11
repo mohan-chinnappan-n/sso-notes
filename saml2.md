@@ -73,7 +73,13 @@
 
 
 ## IDP INIT
+- Transport is User Agent (browser)
 ![IDP init](img/idp-init-1.png)
+
+## SP INIT
+- Transport is User Agent (browser)
+![SP init](img/sp-init-1.png)
+
 
 ### References
 - [SP-initiated SSO—POST-POST](https://docs.pingidentity.com/bundle/pingfederate-81/page/gettingStartedGuide/task/spInitiatedSsoPost.html)
