@@ -6,9 +6,9 @@
 -[Refer: MC Enable Single Sign-On Authentication Via SAML 2.0](https://mohan-chinnappan-n2.github.io/2020/mc/sso/mc-sso.html)
 
 
-### HTTP redirect
+### AuthNRequest HTTP redirect
 ![Ping HTTP redirect](https://prod-ping-sfc.zoominsoftware.io/bundle/pingfederate-81/page/gettingStartedGuide/images/SP_redirect_post.jpg?_LANG=enus)
-### HTTP Post
+### AuthNRequest  HTTP Post
 ![Ping HTTP Post](https://prod-ping-sfc.zoominsoftware.io/bundle/pingfederate-81/page/gettingStartedGuide/images/SP_post_post.jpg?_LANG=enus)
 
 ##  AuthNRequest
